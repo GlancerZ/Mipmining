@@ -1,1 +1,2 @@
 # Mipmining
+Microprotein mining database
