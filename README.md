@@ -8,6 +8,6 @@ The results were shown in GSE21341_results.
 ---
 Contains detailed information on each set of data included in the database, covering 9 species, 5 stress conditions, 361 sets of data and 8677 samples.  
 
-SPs_info_Uniprot.xlsx  
+MPs_info_Uniprot.xlsx  
 ---
 Contains official microproteins information from 9 species in the uniprot database.
