@@ -1,5 +1,5 @@
 # Mipmining
-Microprotein mining database. https://weilab.sjtu.edu.cn/mipmining/  
+Microprotein mining database. [website](https://weilab.sjtu.edu.cn/mipmining/)
   
 You can upload phenodata (phenodata_GSE21341.csv) we maked to run the sample data (GSE21341).  
 The results were shown in GSE21341_results.  
