@@ -15,6 +15,7 @@ After enter the 'GSE21341' page, you need to upload the phenodata and adjust ana
 <p align="center">
   <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/GSE21341.png" width="500">
 </p>
+
 You can upload [phenodata](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/GSE21341_result/phenodata.csv) we maked. 
 
 The results were collected in GSE21341_results, you can check if your results are right. 
