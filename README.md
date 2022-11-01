@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/workflow.png" width="1000">
+  <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/workflow.png" width="800">
 </p>
 
-# demo
+# demo data
 You can upload [phenodata](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/GSE21341_result/phenodata.csv) we maked to run the sample data (GSE21341).  
 The results were collected in GSE21341_results.  
 
