@@ -9,11 +9,15 @@
 # Demo
 Enter [Mipmining Website](https://weilab.sjtu.edu.cn/mipmining/) and type 'GSE21341' to search specific GSE data.
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/frontpage.png" width="400">
+  <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/frontpage.png" width="500">
 </p>
+After enter the 'GSE21341' page, you need to upload the phenodata and adjust analysis parameters.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/GSE21341.png" width="500">
+</p>
+- You can upload [phenodata](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/GSE21341_result/phenodata.csv) we maked. 
 
-You can upload [phenodata](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/GSE21341_result/phenodata.csv) we maked to run the sample data (GSE21341).  
-The results were collected in GSE21341_results.  
+The results were collected in GSE21341_results, you can check if your results are right. 
 
 9-species-GSE.xlsx  
 ---
