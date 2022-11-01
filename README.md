@@ -1,4 +1,6 @@
-![logo](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/logo.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/logo.png" width="500">
+</p>
 
 [Microprotein mining database](https://weilab.sjtu.edu.cn/mipmining/)
 ![Workflow](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/workflow.png)
