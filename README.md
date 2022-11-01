@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/workflow.png" width="500">
+  <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/workflow.png" width="1000">
 </p>
 
 # demo
