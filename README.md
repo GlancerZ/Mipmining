@@ -19,6 +19,7 @@ After enter the 'GSE21341' page, you need to upload the phenodata and adjust ana
 You can upload [phenodata](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/GSE21341_result/phenodata.csv) we maked. 
 
 The results were collected in GSE21341_results, you can check if your results are right. 
+You can see our website for more help.
 
 # [Species' information](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Data_collection/9-species-GSE.xlsx)
 Contains detailed information on each set of data included in the database, covering 9 species, 5 stress conditions, 361 sets of data and 8677 samples.
@@ -27,4 +28,5 @@ Contains detailed information on each set of data included in the database, cove
 # [Microproteins' information](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Data_collection/9-species-GSE.xlsx)
 Contains official microproteins information from 9 species in the uniprot database.
 
+# Our Website
 [Microprotein mining database](https://weilab.sjtu.edu.cn/mipmining/)
