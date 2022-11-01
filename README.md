@@ -2,7 +2,9 @@
   <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/logo.png" width="500">
 </p>
 
-![Workflow](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/workflow.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/workflow.png" width="500">
+</p>
 
 # demo
 You can upload [phenodata](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/GSE21341_result/phenodata.csv) we maked to run the sample data (GSE21341).  
