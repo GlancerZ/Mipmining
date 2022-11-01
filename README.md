@@ -6,7 +6,12 @@
   <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/workflow.png" width="800">
 </p>
 
-# demo data
+# Demo
+Enter [Mipmining Website](https://weilab.sjtu.edu.cn/mipmining/) and type 'GSE21341' to search specific GSE data.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Figure/frontpage.png" width="400">
+</p>
+
 You can upload [phenodata](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/GSE21341_result/phenodata.csv) we maked to run the sample data (GSE21341).  
 The results were collected in GSE21341_results.  
 
