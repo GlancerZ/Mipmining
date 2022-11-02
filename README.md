@@ -28,7 +28,7 @@ Contains detailed information on each set of data included in the database, cove
 
 
 ## [Microproteins' information](https://raw.githubusercontent.com/GlancerZ/Mipmining/main/Data_collection/9-species-GSE.xlsx)
-Contains filtered microproteins information from 9 species in the uniprot database.
+Contains official microproteins information from 9 species in the uniprot database.
 
 ## Our Website
 [Microprotein mining database](https://weilab.sjtu.edu.cn/mipmining/)
